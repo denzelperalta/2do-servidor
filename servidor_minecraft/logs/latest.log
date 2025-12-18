@@ -1,0 +1,207 @@
+[00:36:59] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[00:37:00] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[00:37:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:37:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:37:08] [main/INFO]: Loaded 1461 recipes
+[00:37:08] [main/INFO]: Loaded 1574 advancements
+[00:37:08] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:37:08] [Server thread/INFO]: Loading properties
+[00:37:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:37:08] [Server thread/INFO]: Generating keypair
+[00:37:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:37:09] [Server thread/INFO]: Using epoll channel type
+[00:37:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:37:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:37:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:37:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:37:09] [Server thread/INFO]: Preparing level "world"
+[00:37:09] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:37:09] [Server thread/INFO]: Time elapsed: 11 ms
+[00:37:09] [Server thread/INFO]: Done (0.323s)! For help, type "help"
+[00:37:14] [Server thread/INFO]: Dxnz3l[/127.4.238.199:48399] logged in with entity id 51 at (-120.92121375948282, 68.0, 333.5094439527979)
+[00:37:14] [Server thread/INFO]: Dxnz3l joined the game
+[00:38:06] [Server thread/INFO]: sincue[/127.30.206.149:50193] logged in with entity id 845 at (-352.23108428004065, -46.0, 623.6342357959495)
+[00:38:06] [Server thread/INFO]: sincue joined the game
+[00:38:19] [Server thread/INFO]: [Not Secure] <sincue> y eta loquera ahora sacandome
+[00:38:23] [Server thread/INFO]: [Not Secure] <Dxnz3l> se apago fue el codespace por inactividad
+[00:38:28] [Server thread/INFO]: [Not Secure] <Dxnz3l> ami me saco tambien
+[00:38:30] [Server thread/INFO]: [Not Secure] <sincue> aaaaaaa
+[00:38:39] [Server thread/INFO]: [Not Secure] <sincue> ya yo le iba a meter un sumbon
+[00:38:43] [Server thread/INFO]: [Not Secure] <Dxnz3l> jaja
+[00:39:00] [Server thread/INFO]: [Not Secure] [Dxnz3l] hola
+[00:39:48] [Server thread/INFO]: [Not Secure] <sincue> voy a ir a buscar el no fog
+[00:39:50] [Server thread/INFO]: [Not Secure] <sincue> ya vengo
+[00:40:05] [Server thread/INFO]: [Not Secure] <sincue> oite
+[00:40:23] [Server thread/INFO]: [Not Secure] <sincue> varon
+[00:40:26] [Server thread/INFO]: [Not Secure] <Dxnz3l> ?
+[00:40:32] [Server thread/INFO]: [Not Secure] <sincue> me fui a buscarlo
+[00:40:40] [Server thread/INFO]: [Not Secure] <Dxnz3l> dale
+[00:40:45] [Server thread/INFO]: [Not Secure] <sincue> hijo de perra deja de ta susurando
+[00:40:47] [Server thread/INFO]: sincue lost connection: Disconnected
+[00:40:47] [Server thread/INFO]: sincue left the game
+[00:53:22] [Server thread/INFO]: Dxnz3l has made the advancement [Hot Stuff]
+[00:58:02] [Server thread/INFO]: Dxnz3l has made the advancement [We Need to Go Deeper]
+[00:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3476ms or 69 ticks behind
+[00:58:15] [Server thread/INFO]: sincue[/127.30.206.149:42707] logged in with entity id 6361 at (-304.38964573984583, -51.0, 488.4190377039779)
+[00:58:15] [Server thread/INFO]: sincue joined the game
+[00:58:18] [Server thread/INFO]: [Not Secure] <Dxnz3l> hey
+[00:58:27] [Server thread/INFO]: [Not Secure] <sincue> eo
+[00:58:41] [Server thread/INFO]: [Not Secure] <Dxnz3l> quiere ir al nether conmigo?
+[00:58:46] [Server thread/INFO]: [Not Secure] <sincue> le puse un brignes tambien pa ver mejor
+[00:58:48] [Server thread/INFO]: [Not Secure] <Dxnz3l> ya tengo el portal
+[00:58:54] [Server thread/INFO]: [Not Secure] <sincue> deja consigo los materiales y subo
+[00:59:05] [Server thread/INFO]: [Not Secure] <Dxnz3l> loco tu sabia que tu podias hacerlo sin salirte?
+[00:59:12] [Server thread/INFO]: [Not Secure] <Dxnz3l> desde el mismo launcher
+[00:59:17] [Server thread/INFO]: [Not Secure] <Dxnz3l> y sin durar media hora
+[00:59:42] [Server thread/INFO]: [Not Secure] <Dxnz3l> te espero aqui arriba
+[00:59:45] [Server thread/INFO]: sincue lost connection: Timed out
+[00:59:45] [Server thread/INFO]: sincue left the game
+[00:59:45] [Server thread/WARN]: handleDisconnection() called twice
+[01:00:12] [Server thread/INFO]: sincue[/127.30.206.149:41807] logged in with entity id 7345 at (-304.38964573984583, -51.0, 488.4190377039779)
+[01:00:12] [Server thread/INFO]: sincue joined the game
+[01:00:21] [Server thread/INFO]: [Not Secure] <sincue> me puse a comer algo fue
+[01:00:34] [Server thread/INFO]: [Not Secure] <sincue> pero ve tu que si voy con eta armadura me dan en la madre
+[01:00:38] [Server thread/INFO]: [Not Secure] <Dxnz3l> ve en menos de 1 minuto ya me puse el no fog
+[01:00:45] [Server thread/INFO]: [Not Secure] <Dxnz3l> pa ir al nether
+[01:00:48] [Server thread/INFO]: [Not Secure] <Dxnz3l> dale
+[01:00:56] [Server thread/INFO]: [Not Secure] <sincue> que me puse a comer algo por eso dure mas
+[01:01:20] [Server thread/INFO]: [Not Secure] <Dxnz3l> si pero que no tenias que salirte
+[01:01:46] [Server thread/INFO]: [Not Secure] <sincue> aparte el fog le meti brignes
+[01:01:53] [Server thread/INFO]: [Not Secure] <Dxnz3l> tambien le puse
+[01:03:04] [Server thread/INFO]: [Not Secure] <sincue> ya ta en el nether o todabia
+[01:03:11] [Server thread/INFO]: [Not Secure] <Dxnz3l> ya
+[01:03:27] [Server thread/INFO]: [Not Secure] <sincue> guarda la coordenada de toh por si acaso
+[01:03:28] [Server thread/INFO]: [Not Secure] <Dxnz3l> pero todavia no he caminado
+[01:03:36] [Server thread/INFO]: [Not Secure] <Dxnz3l> tu quieres venir es?
+[01:03:40] [Server thread/INFO]: [Not Secure] <sincue> no
+[01:05:32] [Server thread/INFO]: [Not Secure] <sincue> tan dificil lo diamante la creta
+[01:05:53] [Server thread/INFO]: [Not Secure] <Dxnz3l> preocupate mas por el hierro
+[01:06:27] [Server thread/INFO]: [Not Secure] <sincue> que tanto necesitamos
+[01:06:33] [Server thread/INFO]: [Not Secure] <Dxnz3l> todo el que puedas
+[01:06:35] [Server thread/INFO]: [Not Secure] <Dxnz3l> que sobre
+[01:06:38] [Server thread/INFO]: [Not Secure] <sincue> tt
+[01:08:16] [Server thread/INFO]: [Not Secure] <sincue> yo toy picando en linea recta cambio o me quedo asi
+[01:08:25] [Server thread/INFO]: [Not Secure] <Dxnz3l> busca cuevas
+[01:08:30] [Server thread/INFO]: [Not Secure] <Dxnz3l> es mejor
+[01:11:27] [Server thread/INFO]: [Not Secure] <Dxnz3l> ehh
+[01:11:29] [Server thread/INFO]: [Not Secure] <Dxnz3l> una bastion
+[01:11:35] [Server thread/INFO]: [Not Secure] <Dxnz3l> deja ver si saco plantilla
+[01:11:47] [Server thread/INFO]: sincue was blown up by Creeper
+[01:11:53] [Server thread/INFO]: [Not Secure] <Dxnz3l> anda el diablo
+[01:12:32] [Server thread/INFO]: Dxnz3l has made the advancement [Those Were the Days]
+[01:12:35] [Server thread/INFO]: [Not Secure] <sincue> se me bajan lo fps loco
+[01:13:14] [Server thread/INFO]: Dxnz3l has made the advancement [War Pigs]
+[01:13:58] [Server thread/INFO]: sincue lost connection: Timed out
+[01:13:58] [Server thread/INFO]: sincue left the game
+[01:15:27] [Server thread/INFO]: sincue (bb376d81-5005-38d4-9f8a-eb855d0edec0) lost connection: Timed out
+[01:16:04] [Server thread/INFO]: sincue[/127.30.206.149:37955] logged in with entity id 13055 at (-177.5, 72.0, 514.5)
+[01:16:04] [Server thread/INFO]: sincue joined the game
+[01:19:18] [Server thread/INFO]: [Not Secure] <sincue> tu cree que lo mio siga ahi
+[01:19:23] [Server thread/INFO]: [Not Secure] <Dxnz3l> si
+[01:19:51] [Server thread/INFO]: Dxnz3l has made the advancement [Ice Bucket Challenge]
+[01:20:14] [Server thread/INFO]: [Not Secure] <Dxnz3l> diache
+[01:20:21] [Server thread/INFO]: [Not Secure] <Dxnz3l> en esta bastion no habia plantilla
+[01:20:34] [Server thread/INFO]: [Not Secure] <Dxnz3l> solo encontre ornamento
+[01:20:50] [Server thread/INFO]: [Not Secure] <sincue> que porqueria entonce
+[01:21:53] [Server thread/INFO]: sincue was slain by Zombie
+[01:22:00] [Server thread/INFO]: [Not Secure] <Dxnz3l> ave maria purisima
+[01:22:06] [Server thread/INFO]: [Not Secure] <Dxnz3l> ponte dull diamond loco
+[01:22:07] [Server thread/INFO]: [Not Secure] <sincue> me deje matar fue
+[01:22:10] [Server thread/INFO]: [Not Secure] <sincue> fui sin nah
+[01:24:20] [Server thread/INFO]: [Not Secure] <sincue> vengo ahora
+[01:24:33] [Server thread/INFO]: [Not Secure] <Dxnz3l> tt
+[01:26:00] [Server thread/INFO]: [Not Secure] <sincue> volvi
+[01:26:55] [Server thread/WARN]: sincue moved too quickly! -5.814637155944396,-0.7518640014090607,-8.388573023544609
+[01:32:40] [Server thread/INFO]: [Not Secure] <sincue> me voy a hacer full hierro oite
+[01:32:44] [Server thread/INFO]: [Not Secure] <Dxnz3l> ok
+[01:32:54] [Server thread/INFO]: [Not Secure] <Dxnz3l> total para desperdiciarlo
+[01:33:08] [Server thread/INFO]: [Not Secure] <Dxnz3l> hazte full diamante que eso es de una vez
+[01:33:29] [Server thread/INFO]: Dxnz3l has made the advancement [A Terrible Fortress]
+[01:34:06] [Server thread/INFO]: sincue lost connection: Timed out
+[01:34:06] [Server thread/INFO]: sincue left the game
+[01:34:32] [Server thread/INFO]: sincue[/127.30.206.149:39083] logged in with entity id 20819 at (-159.24903040261376, 71.0, 522.7500034655174)
+[01:34:32] [Server thread/INFO]: sincue joined the game
+[01:35:47] [Server thread/INFO]: [Not Secure] <sincue> me fui ahora si
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:38:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-217, y=56, z=-442} class_2338{x=-242, y=60, z=-440}
+[01:39:15] [Server thread/INFO]: [Not Secure] <sincue> Dxnz3l wa compra un botellon ya vengo
+[01:39:17] [Server thread/INFO]: sincue lost connection: Disconnected
+[01:39:17] [Server thread/INFO]: sincue left the game
+[01:40:03] [Server thread/INFO]: [Not Secure] <Dxnz3l> otra bastion
+[01:40:11] [Server thread/INFO]: [Not Secure] <Dxnz3l> hey esta fortaleza no tiene blazes
+[01:42:22] [Server thread/INFO]: Dxnz3l has made the advancement [Into Fire]
+[01:42:27] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[01:42:27] [Server thread/INFO]: Dxnz3l left the game
+[01:43:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:46:34] [Server thread/INFO]: sincue[/127.30.206.149:45535] logged in with entity id 23519 at (-97.53269265424582, -44.0, 435.4272757180142)
+[01:46:34] [Server thread/INFO]: sincue joined the game
+[01:50:50] [Server thread/INFO]: sincue was slain by Zombie
+[01:53:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-215, y=64, z=602} class_2338{x=-214, y=63, z=602}
+[01:54:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-257, y=64, z=609} class_2338{x=-258, y=63, z=608}
+[01:54:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-257, y=64, z=609} class_2338{x=-258, y=63, z=608}
+[01:54:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-257, y=64, z=609} class_2338{x=-258, y=63, z=608}
+[02:05:33] [Server thread/INFO]: sincue suffocated in a wall
+[02:06:30] [Server thread/WARN]: sincue moved too quickly! 7.834411526794071,2.6151142378175933,-5.672766258190222
+[02:07:51] [Server thread/INFO]: sincue fell from a high place
+[02:11:12] [Server thread/INFO]: ian12xdd[/127.184.149.105:40537] logged in with entity id 31917 at (5.5, 70.0, 7.5)
+[02:11:12] [Server thread/INFO]: ian12xdd joined the game
+[02:11:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=71, z=6}
+[02:11:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=70, z=6}
+[02:11:54] [Server thread/INFO]: [Not Secure] <ian12xdd> 5g
+[02:12:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=71, z=-1}
+[02:13:00] [Server thread/INFO]: sincue hit the ground too hard
+[02:13:04] [Server thread/INFO]: [Not Secure] <ian12xdd> oye
+[02:13:21] [Server thread/INFO]: [Not Secure] <ian12xdd> no me deja romper los arboles esto esta bugeao
+[02:13:42] [Server thread/INFO]: [Not Secure] <ian12xdd> a no ya no
+[02:16:20] [Server thread/INFO]: sincue drowned
+[02:18:03] [Server thread/INFO]: [Not Secure] <sincue> salte pa dormir muchacho
+[02:18:30] [Server thread/INFO]: [Not Secure] <sincue> ian12xdd wey que te salga animal
+[02:18:52] [Server thread/INFO]: [Not Secure] <sincue> hijue tu maldita madre que te salga
+[02:18:55] [Server thread/INFO]: [Not Secure] <sincue> ian12xdd
+[02:19:01] [Server thread/INFO]: ian12xdd lost connection: Disconnected
+[02:19:01] [Server thread/INFO]: ian12xdd left the game
+[02:19:08] [Server thread/INFO]: ian12xdd[/127.184.149.105:60825] logged in with entity id 36056 at (-177.30000001192093, 57.0, -11.300000011920929)
+[02:19:08] [Server thread/INFO]: ian12xdd joined the game
+[02:19:16] [Server thread/INFO]: [Not Secure] <ian12xdd> que paso?
+[02:20:13] [Server thread/INFO]: ian12xdd has made the advancement [Stone Age]
+[02:20:27] [Server thread/INFO]: ian12xdd has made the advancement [Getting an Upgrade]
+[02:27:13] [Server thread/INFO]: ian12xdd has made the advancement [Acquire Hardware]
+[02:27:27] [Server thread/INFO]: ian12xdd has made the advancement [Suit Up]
+[02:27:54] [Server thread/INFO]: ian12xdd has made the advancement [Isn't It Iron Pick]
+[02:33:53] [Server thread/INFO]: sincue was shot by Skeleton
+[02:34:02] [Server thread/INFO]: ian12xdd lost connection: Disconnected
+[02:34:02] [Server thread/INFO]: ian12xdd left the game
+[02:36:43] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:60647] logged in with entity id 41872 at (342.62383771837034, 142.0, 108.44411453099192)
+[02:36:43] [Server thread/INFO]: Mamameelguevo joined the game
+[02:44:40] [Server thread/WARN]: Mamameelguevo moved wrongly!
+[02:45:33] [Server thread/INFO]: [Not Secure] <sincue> duerme loco pls
+[02:45:40] [Server thread/INFO]: Mamameelguevo lost connection: Disconnected
+[02:45:40] [Server thread/INFO]: Mamameelguevo left the game
+[02:45:48] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:54049] logged in with entity id 45236 at (343.7635986531507, 142.0, 107.43532643258574)
+[02:45:48] [Server thread/INFO]: Mamameelguevo joined the game
+[02:46:05] [Server thread/INFO]: Mamameelguevo lost connection: Disconnected
+[02:46:05] [Server thread/INFO]: Mamameelguevo left the game
+[02:46:17] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:32929] logged in with entity id 45791 at (349.7063065007367, 142.0, 119.1384699953976)
+[02:46:17] [Server thread/INFO]: Mamameelguevo joined the game
+[02:50:29] [Server thread/INFO]: Mamameelguevo lost connection: You logged in from another location
+[02:50:29] [Server thread/INFO]: Mamameelguevo left the game
+[02:50:29] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:51411] logged in with entity id 47259 at (350.5773419070244, 142.0, 116.34359914637427)
+[02:50:29] [Server thread/INFO]: Mamameelguevo joined the game
+[02:57:27] [Server thread/INFO]: [Not Secure] <sincue> duerme
+[02:57:45] [Server thread/WARN]: Mamameelguevo was kicked for floating too long!
+[02:57:45] [Server thread/INFO]: Mamameelguevo lost connection: Flying is not enabled on this server
+[02:57:45] [Server thread/INFO]: Mamameelguevo left the game
+[02:57:50] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:43905] logged in with entity id 51216 at (344.13285538832577, 140.2632336065531, 103.22392138414584)
+[02:57:50] [Server thread/INFO]: Mamameelguevo joined the game
